@@ -1,2 +1,2 @@
-# Simplbyte_-To_Do_List3
+# Simplbyte_-To_Do_quiz
 Simple byte task 3 to do quiz app
